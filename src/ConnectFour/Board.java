@@ -11,4 +11,5 @@ public class Board {
 			fields[i] = Mark.E;
 		}
 	}
+	
 }

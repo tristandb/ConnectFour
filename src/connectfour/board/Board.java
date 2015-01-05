@@ -7,6 +7,7 @@ package connectfour.board;
  *
  */
 public class Board {
+	public static final int WIDTH = 7;
 	public Board(){
 		
 	}
